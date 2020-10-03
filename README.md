@@ -1,4 +1,4 @@
-### *WindEasy**
+### **WindEasy**
 ## **User-Friendly Power Consumption and Tracking App for State Governments**
 
 ## **UI-Design**
